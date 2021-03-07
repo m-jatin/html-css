@@ -115,7 +115,7 @@ p {
 }
 
 hr {
-  border: dotted #1475ba.33rem;
+  border: dotted #1475ba .33rem;
   border-bottom: none;
   width: 4%;
   margin: 6rem auto;
